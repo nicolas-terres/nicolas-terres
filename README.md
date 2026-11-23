@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nicolas Terres 👋
 
-<!--
-**nicolas-terres/nicolas-terres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**14 y/o | Python | Unreal Engine | Future Technical Artist**
+🇧🇷 Fazenda Rio Grande, Brazil -> 🇵🇹 Portugal
 
-Here are some ideas to get you started:
+### What I'm learning now
+- 🐍 Python - Curso em Vídeo Mundo 1, 2, 3
+- 🎮 Unreal Engine 5 - Blueprints & Technical Art
+- 🎬 YouTube - N TOOL FORGE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+- 🔐 Gerador de Senhas - Python
+- 📁 Organizador de Downloads - Python
+- 🧮 Calculadora - Python
+
+### Find me
+- 📺 YouTube: https://www.youtube.com/@ntoolforge
+- 💻 GitHub: https://github.com/nicolas-terres
